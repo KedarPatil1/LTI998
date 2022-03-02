@@ -14,3 +14,4 @@ Today is wednesday
 Mumbai is financial capital of mh
 Indian and Russia are good friends
 Live life in a style
+Learning the DevOps 
